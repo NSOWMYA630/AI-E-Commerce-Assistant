@@ -45,3 +45,48 @@ Product Dataset
 Product Results
   ↓
 Comparison
+
+🔄 How It Works
+User enters a product search request.
+The Flask backend processes the request.
+Product information is retrieved from the available dataset.
+Relevant product results are displayed.
+Users can explore and compare products.
+
+🛠️ Technology Stack
+Python
+Flask
+HTML
+CSS
+JavaScript
+CSV Dataset
+Poppins UI Design
+
+🛍️ Product Platforms
+The project includes product information associated with:
+Amazon
+Flipkart
+Meesho
+AJIO
+Myntra
+
+✨ Key Features
+🔍 Product Search
+📦 Product Exploration
+📊 Product Comparison
+🌐 Multi-Platform Product Information
+🤖 AI-Assisted Shopping Interface
+💻 User-Friendly Web Interface
+
+🌟 Benefits
+Makes product discovery easier
+Reduces search effort
+Provides a convenient comparison experience
+Helps users explore multiple product options through one interface
+
+🚀 Future Scope
+Personalized product recommendations
+Advanced AI-based shopping assistance
+Real-time product information
+More advanced product filtering and comparison
+Integration with additional e-commerce platforms
