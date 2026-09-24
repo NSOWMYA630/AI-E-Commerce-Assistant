@@ -31,63 +31,101 @@ Users can search for products, view product details, explore different options, 
 
 ## ⚙️ System Architecture
 
-```text
 User
-  ↓
+↓
 Web Interface
-  ↓
+↓
 Flask Backend
-  ↓
+↓
 Product Processing
-  ↓
+↓
 Product Dataset
-  ↓
+↓
 Product Results
-  ↓
-Comparison          text```
+↓
+Comparison
 
+## 🔄 How It Works
 
-🔄 How It Works
-User enters a product search request.
-The Flask backend processes the request.
-Product information is retrieved from the available dataset.
-Relevant product results are displayed.
-Users can explore and compare products.
+1. User enters a product search request.
+2. The Flask backend processes the request.
+3. Product information is retrieved from the available dataset.
+4. Relevant product results are displayed.
+5. Users can explore and compare products.
 
-🛠️ Technology Stack
-Python
-Flask
-HTML
-CSS
-JavaScript
-CSV Dataset
-Poppins UI Design
+## 🛠️ Technology Stack
 
-🛍️ Product Platforms
+- Python
+- Flask
+- HTML
+- CSS
+- JavaScript
+- CSV Dataset
+- Poppins UI Design
+
+## 🛍️ Product Platforms
+
 The project includes product information associated with:
-Amazon
-Flipkart
-Meesho
-AJIO
-Myntra
 
-✨ Key Features
-🔍 Product Search
-📦 Product Exploration
-📊 Product Comparison
-🌐 Multi-Platform Product Information
-🤖 AI-Assisted Shopping Interface
-💻 User-Friendly Web Interface
+- Amazon
+- Flipkart
+- Meesho
+- AJIO
+- Myntra
 
-🌟 Benefits
-Makes product discovery easier
-Reduces search effort
-Provides a convenient comparison experience
-Helps users explore multiple product options through one interface
+## ✨ Key Features
 
-🚀 Future Scope
-Personalized product recommendations
-Advanced AI-based shopping assistance
-Real-time product information
-More advanced product filtering and comparison
-Integration with additional e-commerce platforms
+- 🔍 Product Search
+- 📦 Product Exploration
+- 📊 Product Comparison
+- 🌐 Multi-Platform Product Information
+- 🤖 AI-Assisted Shopping Interface
+- 💻 User-Friendly Web Interface
+
+## 📁 Project Contents
+
+AI-E-Commerce-Assistant/
+│
+├── images/
+│   └── Project images
+│
+├── presentation/
+│   └── Project PPT
+│
+├── video/
+│   └── Project demo video
+│
+└── README.md
+
+## 🌟 Benefits
+
+- Makes product discovery easier
+- Reduces search effort
+- Provides a convenient comparison experience
+- Helps users explore multiple product options through one interface
+
+## 🚀 Future Scope
+
+- Personalized product recommendations
+- Advanced AI-based shopping assistance
+- Real-time product information
+- More advanced product filtering and comparison
+- Integration with additional e-commerce platforms
+
+## 🎓 Project Information
+
+**Project:** AI E-Commerce Assistant
+
+**Domain:** Artificial Intelligence & E-Commerce
+
+**Course:** B.Tech – Computer Science and Engineering (AI & ML)
+
+**Academic Year:** 2026–2027
+
+## 👩‍💻 Author
+
+**N. Sowmya**
+
+B.Tech – Computer Science and Engineering (AI & ML)
+
+Vignan’s Nirula Institute of Technology & Science for Women
