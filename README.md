@@ -44,7 +44,8 @@ Product Dataset
   ↓
 Product Results
   ↓
-Comparison
+Comparison          text```
+
 
 🔄 How It Works
 User enters a product search request.
